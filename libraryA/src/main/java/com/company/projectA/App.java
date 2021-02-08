@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Jenkins ! Cascade triggers NOW" );
+        System.out.println( "Hello A2" );
     }
 }
